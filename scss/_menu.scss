@@ -289,7 +289,7 @@
     #topnav {
         .navigation-menu {
             display: flex;
-            justify-content: center;
+            justify-content: flex-end;
             > .has-submenu {
                 > .submenu {
                     > .has-submenu {
